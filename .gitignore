@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/.vs/dispatchn
+/src/dispatchn/obj
+/src/dispatchNTests/obj
+/src/.vs/ProjectEvaluation
+/src/dispatchNTests/bin
+/src/dispatchn/bin
+/src/dispatchn/Properties
+/src/DispatchN.Lib/bin
+/src/DispatchN.Lib/obj
+/src/DispatchN.Lib.UnitTests/bin
+/src/DispatchN.Lib.UnitTests/obj
+/src/dispatchn.pre/bin
+/src/dispatchn.pre/obj
+/src/dispatchn/dispatchn.csproj.user
