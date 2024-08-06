@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dispatchn", "dispatchn\disp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DispatchN.Lib", "DispatchN.Lib\DispatchN.Lib.csproj", "{11D1C662-ACA3-4EF1-B2A7-41CCF72DFD3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DispatchN.Lib.UnitTests", "DispatchN.Lib.UnitTests\DispatchN.Lib.UnitTests.csproj", "{06E5A8BF-9B7E-4489-A57C-42EA9E0A03F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DispatchN.Lib.UnitTests", "DispatchN.Lib.UnitTests\DispatchN.Lib.UnitTests.csproj", "{06E5A8BF-9B7E-4489-A57C-42EA9E0A03F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
