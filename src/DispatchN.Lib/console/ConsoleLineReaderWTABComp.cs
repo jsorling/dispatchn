@@ -1,4 +1,4 @@
-﻿using System.Reflection;
+﻿//https://www.c-sharpcorner.com/article/change-console-foreground-and-background-color-in-c-sharp/
 using System.Text;
 
 namespace Sorling.DispatchN.Lib.console;
